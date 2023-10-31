@@ -1,0 +1,14 @@
+C:\Users\intel-i7\source\repos\laby4zaddom\laby4zaddom\obj\Debug\net6.0\laby4zaddom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\intel-i7\source\repos\laby4zaddom\laby4zaddom\obj\Debug\net6.0\laby4zaddom.AssemblyInfoInputs.cache
+C:\Users\intel-i7\source\repos\laby4zaddom\laby4zaddom\obj\Debug\net6.0\laby4zaddom.AssemblyInfo.cs
+C:\Users\intel-i7\source\repos\laby4zaddom\laby4zaddom\obj\Debug\net6.0\laby4zaddom.csproj.CoreCompileInputs.cache
+C:\Users\intel-i7\source\repos\laby4zaddom\laby4zaddom\bin\Debug\net6.0\laby4zaddom.exe
+C:\Users\intel-i7\source\repos\laby4zaddom\laby4zaddom\bin\Debug\net6.0\laby4zaddom.deps.json
+C:\Users\intel-i7\source\repos\laby4zaddom\laby4zaddom\bin\Debug\net6.0\laby4zaddom.runtimeconfig.json
+C:\Users\intel-i7\source\repos\laby4zaddom\laby4zaddom\bin\Debug\net6.0\laby4zaddom.dll
+C:\Users\intel-i7\source\repos\laby4zaddom\laby4zaddom\bin\Debug\net6.0\laby4zaddom.pdb
+C:\Users\intel-i7\source\repos\laby4zaddom\laby4zaddom\obj\Debug\net6.0\laby4zaddom.dll
+C:\Users\intel-i7\source\repos\laby4zaddom\laby4zaddom\obj\Debug\net6.0\refint\laby4zaddom.dll
+C:\Users\intel-i7\source\repos\laby4zaddom\laby4zaddom\obj\Debug\net6.0\laby4zaddom.pdb
+C:\Users\intel-i7\source\repos\laby4zaddom\laby4zaddom\obj\Debug\net6.0\laby4zaddom.genruntimeconfig.cache
+C:\Users\intel-i7\source\repos\laby4zaddom\laby4zaddom\obj\Debug\net6.0\ref\laby4zaddom.dll
